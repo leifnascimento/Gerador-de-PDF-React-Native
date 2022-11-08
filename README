@@ -1,0 +1,5 @@
+# Dependecies
+
+expo install expo-print
+
+expo install expo-sharing
